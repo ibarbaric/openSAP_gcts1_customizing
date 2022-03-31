@@ -10,4 +10,5 @@ REPORT zprg_bbj.
 WRITE 'active change'.
 * change 31.3.2022, 21:01
 * change 31.3.2022, 21:09, to the 'maintenance' branch
-* change 31.3.2022, 21:39 - remote change (text edit directly in GitHub), will conflict with change in ABAP system
+* change 31.3.2022, 21:42 - local change in ABAP editor, to conflict with a change in GitHub
+* chg 31.3.2022, 22:18 - task based commit
